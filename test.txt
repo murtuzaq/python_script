@@ -1,0 +1,16 @@
+
+# print json file found to be parsed
+print(file)
+###################################
+def fileread( file ):
+    print("read file :", file)
+    with open(file) as file_opened:
+        print("file_open is of type = ", type(file_opened))
+    
+
+
+def main():
+    fileread( file )
+
+if __name__ == '__main__':
+    main()

@@ -1,2 +1,2 @@
 # python_script
-a series of helper functions for most common task in python
+a series of helper functions for common task in python
